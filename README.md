@@ -1,8 +1,8 @@
-# One Converter
+# GLOBAL UNIT CONVERTER
 
 **The Singular Destination for Every Measurement.**
 
-One Converter is a high-precision, professional-grade utility designed for modern workflows. It replaces the clutter of specialized calculator sites with a unified, high-performance interface that balances aesthetic elegance with mathematical rigor.
+GUC is a high-precision, professional-grade utility designed for modern workflows. It replaces the clutter of specialized calculator sites with a unified, high-performance interface that balances aesthetic elegance with mathematical rigor.
 
 ## 🌐 The Vision
 Conversion tools are often treated as secondary utilities—cluttered with ads, slow to load, and visually dated. **One Converter** reimagines these tools as "first-class" applications. Our vision is to provide a singular, trusted environment where speed and accuracy coexist within a beautiful, distraction-free dashboard.
