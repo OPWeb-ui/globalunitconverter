@@ -10,6 +10,9 @@ const Logo = () => (
         GUC
       </span>
     </div>
+    <span className="font-semibold text-sm text-textMain tracking-tight hidden sm:block">
+        Global Unit Converter
+    </span>
   </NavLink>
 );
 
@@ -53,7 +56,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <NavLink to="/terms" className="hover:text-textMain transition-colors">Terms</NavLink>
                 <NavLink to="/about" className="hover:text-textMain transition-colors">About</NavLink>
             </div>
-            <div className="font-semibold text-center md:text-right">Global Unit Convert &copy; {new Date().getFullYear()}</div>
+            <div className="font-semibold text-center md:text-right">Global Unit Converter &copy; {new Date().getFullYear()}</div>
         </div>
       </footer>
     </div>

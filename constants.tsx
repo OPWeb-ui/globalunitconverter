@@ -441,4 +441,4 @@ export const ALL_TOOLS = [
 ];
 
 export const ALL_CONVERTERS = ALL_TOOLS;
-export const APP_NAME = "One Converter";
+export const APP_NAME = "Global Unit Converter";
